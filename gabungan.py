@@ -7,17 +7,13 @@ from firebase_admin import credentials
 from firebase_admin import firestore
 from datetime import datetime, timedelta
 
-
-
 st.markdown(
     """
     <style>
-    /* Sembunyikan footer */
     footer {
         display: none !important;
     }
     
-    /* Sembunyikan logo GitHub dan tulisan Fork */
     .stHeader [class*="github"] {
         display: none !important;
     }
@@ -38,12 +34,11 @@ try:
     db = firestore.client()
 except Exception as e:
     st.error(f"Error during Firebase initialization: {e}")
-
+    st.stop()  # Stop execution if there's an error
 
 # Global variable to store the last follow time
 if 'last_follow_time' not in st.session_state:
     st.session_state.last_follow_time = None
-
 def masuk_dan_follow(username, password, target_username):
     cl = Client()
     try:
