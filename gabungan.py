@@ -23,10 +23,10 @@ st.markdown(
 
 # Initialize Firebase
 def initialize_firebase():
-    if 'gabungan' not in firebase_admin._apps:
+    if not firebase_admin._apps:
         cred = credentials.Certificate('bot-instagram-fahmi-firebase-credentials.json')
-        firebase_admin.initialize_app(cred, name='gabungan')
-    return firestore.client(firebase_admin.get_app('gabungan'))
+        firebase_admin.initialize_app(cred)
+    return firestore.client()
 
 # Create Firestore client
 try:
