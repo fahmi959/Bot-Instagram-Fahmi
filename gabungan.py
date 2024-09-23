@@ -29,16 +29,22 @@ def initialize_firebase():
         firebase_admin.initialize_app(cred, name='gabungan')
 
 # Initialize Firebase
+initialize_firebase()
+
 try:
-    initialize_firebase()
-    db = firestore.client()
+    # Specify the app name to get the client for that app
+    app = firebase_admin.get_app('gabungan')
+    db = firestore.client(app)
 except Exception as e:
-    st.error(f"Error during Firebase initialization: {e}")
+    st.error(f"Error during Firebase initialization or Firestore access: {e}")
     st.stop()  # Stop execution if there's an error
 
 # Global variable to store the last follow time
 if 'last_follow_time' not in st.session_state:
     st.session_state.last_follow_time = None
+
+
+
 def masuk_dan_follow(username, password, target_username):
     cl = Client()
     try:
