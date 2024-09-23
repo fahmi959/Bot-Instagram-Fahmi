@@ -3,8 +3,7 @@ import time
 import streamlit as st
 from instagrapi import Client
 import firebase_admin
-from firebase_admin import credentials
-from firebase_admin import firestore
+from firebase_admin import credentials, firestore
 from datetime import datetime, timedelta
 
 st.markdown(
@@ -22,20 +21,16 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Inisialisasi Firebase
+# Initialize Firebase
 def initialize_firebase():
-    # Check if the app is already initialized
     if 'gabungan' not in firebase_admin._apps:
         cred = credentials.Certificate('bot-instagram-fahmi-firebase-credentials.json')
         firebase_admin.initialize_app(cred, name='gabungan')
+    return firestore.client(firebase_admin.get_app('gabungan'))
 
-# Initialize Firebase
-initialize_firebase()
-
-# Get Firestore client
+# Create Firestore client
 try:
-    app = firebase_admin.get_app('gabungan')
-    db = firestore.client(app)
+    db = initialize_firebase()
 except Exception as e:
     st.error(f"Error during Firebase initialization or Firestore access: {e}")
     st.stop()
@@ -123,7 +118,6 @@ def main():
             st.button("Mulai Follow", disabled=True)
         else:
             if st.button("Mulai Follow"):
-                # Update last follow time
                 st.session_state.last_follow_time = datetime.now()
                 start_following(username, password, target_username)
     else:
