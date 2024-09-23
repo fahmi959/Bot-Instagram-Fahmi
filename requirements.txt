@@ -1,0 +1,3 @@
+streamlit
+instagrapi
+firebase-admin
