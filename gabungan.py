@@ -10,13 +10,20 @@ from datetime import datetime, timedelta
 st.markdown(
     """
     <style>
-    .footer {
-        display: none;
+    /* Sembunyikan footer */
+    footer {
+        display: none !important;
+    }
+    
+    /* Sembunyikan logo GitHub dan tulisan Fork */
+    .stHeader [class*="github"] {
+        display: none !important;
     }
     </style>
     """,
     unsafe_allow_html=True
 )
+
 
 
 # Inisialisasi Firebase
