@@ -27,15 +27,17 @@ st.markdown(
 )
 
 # Inisialisasi Firebase
-try:
+def initialize_firebase():
     if not firebase_admin._apps:
         cred = credentials.Certificate('bot-instagram-fahmi-firebase-credentials.json')
         firebase_admin.initialize_app(cred, name='gabungan')
+
+# Initialize Firebase
+try:
+    initialize_firebase()
     db = firestore.client()
-except ValueError as e:
-    st.error(f"Firebase initialization error: {e}")
 except Exception as e:
-    st.error(f"An error occurred: {e}")
+    st.error(f"Error during Firebase initialization: {e}")
 
 
 # Global variable to store the last follow time
