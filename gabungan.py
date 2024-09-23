@@ -30,7 +30,7 @@ st.markdown(
 
 if not firebase_admin._apps:
     cred = credentials.Certificate('bot-instagram-fahmi-firebase-credentials.json')
-    firebase_admin.initialize_app(cred, name='instagram_bot')  # Use a simple string name
+    firebase_admin.initialize_app(cred, name='gabungan')  # Use a simple string name
 
 # Inisialisasi Firestore
 db = firestore.client()
