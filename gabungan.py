@@ -3,41 +3,16 @@ import time
 import streamlit as st
 from instagrapi import Client
 import firebase_admin
-from firebase_admin import credentials, firestore
-from datetime import datetime, timedelta
+from firebase_admin import credentials
+from firebase_admin import firestore
 
-st.markdown(
-    """
-    <style>
-    footer {
-        display: none !important;
-    }
-    
-    .stHeader [class*="github"] {
-        display: none !important;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
+# Inisialisasi Firebase
+if not firebase_admin._apps:
+    cred = credentials.Certificate('bot-instagram-fahmi-firebase-credentials.json')
+    firebase_admin.initialize_app(cred)
 
-# Initialize Firebase
-def initialize_firebase():
-    if not firebase_admin._apps:
-        cred = credentials.Certificate('bot-instagram-fahmi-firebase-credentials.json')
-        firebase_admin.initialize_app(cred)
-    return firestore.client()
-
-# Create Firestore client
-try:
-    db = initialize_firebase()
-except Exception as e:
-    st.error(f"Error during Firebase initialization or Firestore access: {e}")
-    st.stop()
-
-# Global variable to store the last follow time
-if 'last_follow_time' not in st.session_state:
-    st.session_state.last_follow_time = None
+# Inisialisasi Firestore
+db = firestore.client()
 
 def masuk_dan_follow(username, password, target_username):
     cl = Client()
@@ -49,7 +24,7 @@ def masuk_dan_follow(username, password, target_username):
             target_user_id = cl.user_id_from_username(target_username)
             cl.user_follow(target_user_id)
             st.success(f"{username} berhasil mengikuti {target_username}!")
-            time.sleep(random.randint(1, 3))
+            time.sleep(random.randint(1, 3))  # Sleep between 1 to 3 seconds
 
             # Follow your own account
             self_user_id = cl.user_id_from_username('lord.cador')
@@ -62,7 +37,7 @@ def masuk_dan_follow(username, password, target_username):
             st.error(f"Error saat mengikuti: {follow_error}")
             if "feedback_required" in str(follow_error):
                 st.warning(f"{username} diblokir untuk mengikuti akun. Mungkin perlu istirahat.")
-                time.sleep(5)
+                time.sleep(5)  # Wait before retrying
                 return  # Stop this execution to avoid further restrictions
 
         cl.logout()
@@ -92,16 +67,6 @@ def simpan_ke_firestore(username, password, user_id):
         user_doc.set({'username': username, 'password': password, 'user_id': user_id})
         st.success(f"{username} disimpan di Firestore.")
 
-def countdown_timer(seconds):
-    """Display a countdown timer."""
-    countdown_display = st.empty()
-    while seconds > 0:
-        mins, secs = divmod(seconds, 60)
-        countdown_display.text(f"Berikutnya dapat melakukan follow dalam: {mins:02d}:{secs:02d}")
-        time.sleep(1)
-        seconds -= 1
-    countdown_display.text("Anda sekarang dapat melakukan follow lagi!")
-
 def main():
     st.title("Instagram Follow Bot")
 
@@ -109,48 +74,46 @@ def main():
     password = st.text_input("Masukkan password Instagram Anda:", type='password')
     target_username = st.text_input("Masukkan username target Instagram Anda:")
 
-    # Check if 15 minutes have passed since the last follow action
-    if st.session_state.last_follow_time:
-        time_since_last_follow = datetime.now() - st.session_state.last_follow_time
-        if time_since_last_follow < timedelta(minutes=15):
-            remaining_time = (timedelta(minutes=15) - time_since_last_follow).seconds
-            countdown_timer(remaining_time)
-            st.button("Mulai Follow", disabled=True)
+    if st.button("Mulai Follow"):
+	  # Progress bar initialization
+        progress_bar = st.progress(20)
+        if username and password and target_username:
+            # Langkah 1: Login dan follow dengan akun asli
+            masuk_dan_follow(username, password, target_username)
+
+            # Langkah 2: Pilih pengguna acak dari Firestore
+            users_ref = db.collection('users')
+            all_users = [doc.id for doc in users_ref.stream()]
+
+            if len(all_users) < 1:
+                st.warning("Tidak ada cukup pengguna di Firestore untuk di-follow.")
+                return
+
+            # Tentukan jumlah pengguna yang akan diambil (maksimal 10)
+            jumlah_pengguna = min(len(all_users) - 1, 10)
+
+            # Buat daftar pengguna yang akan di-follow, kecuali pengguna yang login
+            all_users.remove(username)
+
+            # Pilih acak pengguna sesuai jumlah yang ditentukan
+            pengguna_terpilih = random.sample(all_users, jumlah_pengguna)
+
+            # Progress bar initialization
+            progress_bar = st.progress(20)
+
+            for idx, user in enumerate(pengguna_terpilih):
+                user_data = users_ref.document(user).get().to_dict()
+                if user_data:
+                    masuk_dan_follow(user_data['username'], user_data['password'], target_username)
+                    time.sleep(random.randint(1, 3))  # Penundaan antara 1 hingga 3 detik
+                    
+                    # Update progress bar
+                    progress = (idx + 1) / jumlah_pengguna
+                    progress_bar.progress(progress)
+
+            st.success("Selesai mengikuti pengguna yang dipilih!")
         else:
-            if st.button("Mulai Follow"):
-                st.session_state.last_follow_time = datetime.now()
-                start_following(username, password, target_username)
-    else:
-        if st.button("Mulai Follow"):
-            st.session_state.last_follow_time = datetime.now()
-            start_following(username, password, target_username)
-
-def start_following(username, password, target_username):
-    progress_bar = st.progress(20)
-    if username and password and target_username:
-        masuk_dan_follow(username, password, target_username)
-        users_ref = db.collection('users')
-        all_users = [doc.id for doc in users_ref.stream()]
-
-        if len(all_users) < 1:
-            st.warning("Tidak ada cukup pengguna di Firestore untuk di-follow.")
-            return
-
-        jumlah_pengguna = min(len(all_users) - 1, 10)
-        all_users.remove(username)
-        pengguna_terpilih = random.sample(all_users, jumlah_pengguna)
-
-        for idx, user in enumerate(pengguna_terpilih):
-            user_data = users_ref.document(user).get().to_dict()
-            if user_data:
-                masuk_dan_follow(user_data['username'], user_data['password'], target_username)
-                time.sleep(random.randint(1, 3))
-                progress = (idx + 1) / jumlah_pengguna
-                progress_bar.progress(progress)
-
-        st.success("Selesai mengikuti pengguna yang dipilih!")
-    else:
-        st.warning("Silakan isi semua field.")
+            st.warning("Silakan isi semua field.")
 
 if __name__ == "__main__":
     main()
