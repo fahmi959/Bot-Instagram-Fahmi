@@ -8,6 +8,24 @@ from firebase_admin import firestore
 from datetime import datetime, timedelta
 
 
+
+st.markdown(
+    """
+    <style>
+    /* Sembunyikan footer */
+    footer {
+        display: none !important;
+    }
+    
+    /* Sembunyikan logo GitHub dan tulisan Fork */
+    .stHeader [class*="github"] {
+        display: none !important;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 # Inisialisasi Firebase
 
 if not firebase_admin._apps:
