@@ -9,9 +9,10 @@ from datetime import datetime, timedelta
 
 
 # Inisialisasi Firebase
+
 if not firebase_admin._apps:
     cred = credentials.Certificate('bot-instagram-fahmi-firebase-credentials.json')
-    firebase_admin.initialize_app(cred, name='https://bot-instagram-unnes.streamlit.app')  # Specify a name for the app
+    firebase_admin.initialize_app(cred, name='instagram_bot')  # Use a simple string name
 
 # Inisialisasi Firestore
 db = firestore.client()
