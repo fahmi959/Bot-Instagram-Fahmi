@@ -7,6 +7,18 @@ from firebase_admin import credentials
 from firebase_admin import firestore
 from datetime import datetime, timedelta
 
+st.markdown(
+    """
+    <style>
+    .footer {
+        display: none;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+
 # Inisialisasi Firebase
 if not firebase_admin._apps:
     cred = credentials.Certificate('bot-instagram-fahmi-firebase-credentials.json')
