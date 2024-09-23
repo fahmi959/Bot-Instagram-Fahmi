@@ -24,7 +24,8 @@ st.markdown(
 
 # Inisialisasi Firebase
 def initialize_firebase():
-    if not firebase_admin._apps:
+    # Check if the app is already initialized
+    if 'gabungan' not in firebase_admin._apps:
         cred = credentials.Certificate('bot-instagram-fahmi-firebase-credentials.json')
         firebase_admin.initialize_app(cred, name='gabungan')
 
@@ -32,7 +33,7 @@ def initialize_firebase():
 initialize_firebase()
 
 try:
-    # Specify the app name to get the client for that app
+    # Get the initialized app and create the Firestore client
     app = firebase_admin.get_app('gabungan')
     db = firestore.client(app)
 except Exception as e:
@@ -42,6 +43,7 @@ except Exception as e:
 # Global variable to store the last follow time
 if 'last_follow_time' not in st.session_state:
     st.session_state.last_follow_time = None
+
 
 
 
